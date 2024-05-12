@@ -115,7 +115,7 @@ Flask 서버 엔드포인트
 
 ### 2. input Video (Real-ESRGAN)
 
-[![Before Video](https://via.placeholder.com/400x300.png?text=Click+To+Watch+Before+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca)
+[![Before Video](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=PMH3SQUfsj4Qug2zSKbi9eUzDvHuoEVsmq0F8y1uYyw)
 
 [![Before Video (전설의고향)](https://via.placeholder.com/400x300.png?text=Click+To+Watch+%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5+Before+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4?id=fddec1d6-102d-4952-8147-8fdc62ac7311)
 
@@ -130,24 +130,8 @@ Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용�
 
 ### 1. 모델 (IART)
 
-[CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment
-PWC PWC
+![image](https://github.com/junu3148/Upscale/assets/134668162/1d1aff22-c059-4035-bff8-f2caffce2405)
 
-Updates:
-
-April 26, 2024: We released a new model trained on Vimeo-90K with DB degradation.
-
-January 18, 2024: Check our updated paper with more illustrations, speed comparisons and additional qualitative results!
-
-This is an offical PyTorch implementation of
-
-[CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment. [Paper]
-Kai Xu, Ziwei Yu, Xin Wang, Michael Bi Mi, Angela Yao
-Computer Vision and Machine Learning group, NUS.
-
-
-
-Results
 
 
 ### 2. input Video (IART)
