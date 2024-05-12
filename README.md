@@ -115,47 +115,40 @@ Flask 서버 엔드포인트
 
 ### 2. input Video (Real-ESRGAN)
 
-[795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=PMH3SQUfsj4Qug2zSKbi9eUzDvHuoEVsmq0F8y1uYyw)
+[![Before Video](https://via.placeholder.com/400x300.png?text=Click+To+Watch+Before+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca)
 
-[전설의고향 input.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4?id=fddec1d6-102d-4952-8147-8fdc62ac7311&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=Ho0eiPkp1zMZU4EVLP2HMtOMVhpzffp6azGBkr373nk)
+[![Before Video (전설의고향)](https://via.placeholder.com/400x300.png?text=Click+To+Watch+%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5+Before+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4?id=fddec1d6-102d-4952-8147-8fdc62ac7311)
 
 ### 3. output Video (Real-ESRGAN)
 
-[795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/57487d52-344e-4882-9b6c-022bb5f01478/795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4?id=522a2a10-243c-443b-b0fe-f88046e3c940&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=gEpNA_aFKDEwD7hikPM9STkOtbMUnn2ts6jVZc3Wn0s)
+[![After Video](https://via.placeholder.com/400x300.png?text=Click+To+Watch+After+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/57487d52-344e-4882-9b6c-022bb5f01478/795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4?id=522a2a10-243c-443b-b0fe-f88046e3c940)
 
-[전설의고향 Real - ESRGAN.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/1f0d19df-fbdd-4b2b-b619-6e3d8963d466/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_Real_-_ESRGAN.mp4?id=23f2199d-32bc-49c6-b738-5a4d7b990fa6&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=ASu_6YVN_gP57pUyGYWhtGo7oy3OBJU2qrQ3mLsczxg)
+[![After Video (전설의고향)](https://via.placeholder.com/400x300.png?text=Click+To+Watch+%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5+After+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/1f0d19df-fbdd-4b2b-b619-6e3d8963d466/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_Real_-_ESRGAN.mp4?id=23f2199d-32bc-49c6-b738-5a4d7b990fa6)
 
 
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
 
 ### 1. 모델 (IART)
 
-**[CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**
+[CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment
+PWC PWC
 
-https://camo.githubusercontent.com/ac45a0d829608265992350a5d908a45c1694ba94d8508a6417e33ce6c91846e8/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e742e7376673f75726c3d68747470733a2f2f70617065727377697468636f64652e636f6d2f62616467652f616e2d696d706c696369742d616c69676e6d656e742d666f722d766964656f2d73757065722f766964656f2d73757065722d7265736f6c7574696f6e2d6f6e2d72656473342d34782d75707363616c696e67
+Updates:
 
-https://camo.githubusercontent.com/6f52213d97e480dc2641074903205560fe0aabf19e44ef1bda53194f0c78d582/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e742e7376673f75726c3d68747470733a2f2f70617065727377697468636f64652e636f6d2f62616467652f616e2d696d706c696369742d616c69676e6d656e742d666f722d766964656f2d73757065722f766964656f2d73757065722d7265736f6c7574696f6e2d6f6e2d766964342d34782d75707363616c696e67
+April 26, 2024: We released a new model trained on Vimeo-90K with DB degradation.
 
-**Updates:**
-
-- April 26, 2024: We released a new model trained on Vimeo-90K with DB degradation.
-- January 18, 2024: Check our [updated paper](https://github.com/kai422/IART/blob/main/arxiv.pdf) with more illustrations, speed comparisons and additional qualitative results!
+January 18, 2024: Check our updated paper with more illustrations, speed comparisons and additional qualitative results!
 
 This is an offical PyTorch implementation of
 
-> [CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment. [Paper]
-> 
-> 
-> [Kai Xu](https://kai422.github.io/), Ziwei Yu, Xin Wang, Michael Bi Mi, [Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
-> 
-> Computer Vision and Machine Learning group, NUS.
-> 
+[CVPR 2024 Highlight] Enhancing Video Super-Resolution via Implicit Resampling-based Alignment. [Paper]
+Kai Xu, Ziwei Yu, Xin Wang, Michael Bi Mi, Angela Yao
+Computer Vision and Machine Learning group, NUS.
 
-!https://github.com/kai422/IART/raw/main/method.png
 
-**Results**
 
-!https://github.com/kai422/IART/raw/main/results.png
+Results
+
 
 ### 2. input Video (IART)
 
