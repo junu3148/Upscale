@@ -117,7 +117,11 @@ Flask 서버 엔드포인트
 
 - [Input Video 1](
 
-Uploading 둘리_Before.mp4…
+
+
+https://github.com/junu3148/Upscale/assets/134668162/77449f85-a3a7-40b6-9524-f28c777e8777
+
+
 
 )
 - [Input Video 2](https://github.com/junu3148/Upscale/assets/134668162/9cb9d140-437b-41f7-b9f5-eaa1f15a6f7d)
