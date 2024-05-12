@@ -115,22 +115,22 @@ Flask 서버 엔드포인트
 
 ### 2. Input Video (Real-ESRGAN)
 
-- [Input Video 1]
+- [Input Video 1](
 https://github.com/junu3148/Upscale/assets/134668162/77449f85-a3a7-40b6-9524-f28c777e8777
-
-- [Input Video 2]
+)
+- [Input Video 2](
 https://github.com/junu3148/Upscale/assets/134668162/cd72eb7a-4548-4933-a686-0a876409551d
-
+)
 
 
 ### 3. Output Video (Real-ESRGAN)
 
-- [Output Video 1]
+- [Output Video 1](
 https://github.com/junu3148/Upscale/assets/134668162/c4230b41-74b7-4755-90e0-9749d3e694c2
-
-- [Output Video 2]
+)
+- [Output Video 2](
 https://github.com/junu3148/Upscale/assets/134668162/d7a0faba-e142-4a93-bdf3-7187760d652b
-
+)
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
 
 ### 1. 모델 (IART)
@@ -142,17 +142,17 @@ Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용�
 ### 2. input Video (IART)
 
 
-- [Input Video 1]
+- [Input Video 1](
 https://github.com/junu3148/Upscale/assets/134668162/4f4d2b95-89ce-4e88-9745-4576190d5c10
-
+)
 
 
 ### 3. output Video (IART)
 
 
-- [Output Video 1]
+- [Output Video 1](
 https://github.com/junu3148/Upscale/assets/134668162/9b3c333e-2ceb-4a2a-adfc-74fc045aae12
-
+)
 
 
 
