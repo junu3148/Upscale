@@ -58,24 +58,21 @@ AI model -  IART
     - 파일 반환
     - 반환 후 파일 삭제
 
+```bash
 pip install fastapi
-
 pip install uvicorn
-
 pip install aiofiles
-
 conda install -c conda-forge ffmpeg
 
 ### AI model 세팅 (Real-ESRGAN)
 
+```bash
 git clone this repository
 git clone https://github.com/sczhou/CodeFormer
 cd CodeFormer
-
 create new anaconda env
 conda create -n codeformer python=3.8 -y
 conda activate codeformer
-
 install python dependencies
 pip3 install -r requirements.txt
 python basicsr/setup.py develop
@@ -84,18 +81,16 @@ conda install -c conda-forge ffmpeg
 
 ### AI model 세팅 (IART)
 
+```bash
 git clone https://github.com/kai422/IART
 cd IART
 pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117--extra-index-url https://download.pytorch.org/whl/cu117
 pip install -r requirements.txt
-
 가중치 : https://drive.google.com/drive/folders/
 1MIUK37Izc4IcA_a3eSH-21EXOZO5G5qU
 경로 : ./experiments./pretrained_models/
-
 pip install basicsr
 pip install timm
-
 conda install -c conda-forge ffmpeg
 
 ---
@@ -104,10 +99,12 @@ conda install -c conda-forge ffmpeg
 
 ![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2Fc3168894-360c-40e2-a4ef-c2c8790e6801%2FUntitled.png?table=block&id=b87d6a24-5cdd-4462-9206-d6cfa9141ba5&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
+<br>
 스프링 서버 엔드포인트
 
 ![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2F3b0052f0-2bf8-4ac2-acd5-4324a724d71a%2FUntitled.png?table=block&id=f819cf8e-e73b-4095-82ec-3e47bc676679&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
+<br>
 
 Flask 서버 엔드포인트
 
