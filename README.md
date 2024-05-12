@@ -63,7 +63,7 @@ pip install fastapi
 pip install uvicorn
 pip install aiofiles
 conda install -c conda-forge ffmpeg
-
+`
 ### AI model 세팅 (Real-ESRGAN)
 
 ```bash
@@ -78,7 +78,7 @@ pip3 install -r requirements.txt
 python basicsr/setup.py develop
 conda install -c conda-forge dlib (only for face detection or cropping with dlib)
 conda install -c conda-forge ffmpeg
-
+`
 ### AI model 세팅 (IART)
 
 ```bash
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 pip install basicsr
 pip install timm
 conda install -c conda-forge ffmpeg
-
+`
 ---
 
 ### 1. Postman 통신
