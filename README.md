@@ -63,7 +63,7 @@ pip install fastapi
 pip install uvicorn
 pip install aiofiles
 conda install -c conda-forge ffmpeg
-`
+```
 ### AI model 세팅 (Real-ESRGAN)
 
 ```bash
