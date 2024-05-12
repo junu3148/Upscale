@@ -113,29 +113,15 @@ Flask 서버 엔드포인트
 
 ![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2F43da8291-fcac-4e3d-a66d-a83bb59cdeb8%2FUntitled.png?table=block&id=a6278f64-42d6-4cd1-8946-87f796b165bb&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=1550&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
-### 2. input Video (Real-ESRGAN)
+### 2. Input Video (Real-ESRGAN)
 
+- [Input Video 1](https://github.com/junu3148/Upscale/assets/134668162/c7099db4-2df8-43f9-8427-b019de8c8feb)
+- [Input Video 2](https://github.com/junu3148/Upscale/assets/134668162/9cb9d140-437b-41f7-b9f5-eaa1f15a6f7d)
 
+### 3. Output Video (Real-ESRGAN)
 
-https://github.com/junu3148/Upscale/assets/134668162/c7099db4-2df8-43f9-8427-b019de8c8feb
-
-
-
-https://github.com/junu3148/Upscale/assets/134668162/9cb9d140-437b-41f7-b9f5-eaa1f15a6f7d
-
-
-
-### 3. output Video (Real-ESRGAN)
-
-
-
-https://github.com/junu3148/Upscale/assets/134668162/832279a0-1db8-4dd1-b899-ba361cc373e6
-
-
-
-https://github.com/junu3148/Upscale/assets/134668162/75eb40f3-98bf-4ed6-9820-5ea27afffc9e
-
-
+- [Output Video 1](https://github.com/junu3148/Upscale/assets/134668162/832279a0-1db8-4dd1-b899-ba361cc373e6)
+- [Output Video 2](https://github.com/junu3148/Upscale/assets/134668162/75eb40f3-98bf-4ed6-9820-5ea27afffc9e)
 
 
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
@@ -148,8 +134,16 @@ Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용�
 
 ### 2. input Video (IART)
 
-[구미호 축소 원본.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/6c9f106a-d2bb-4275-8673-5786b005743d/%EA%B5%AC%EB%AF%B8%ED%98%B8_%EC%B6%95%EC%86%8C_%EC%9B%90%EB%B3%B8.mp4?id=a4c27757-db8d-4349-891f-aa4b8a0b5923&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=KCrqGRpObf0fp2dN1qscwFb9fUMCr9Y5fqTrNNNcSh0)
+
+
+https://github.com/junu3148/Upscale/assets/134668162/c00a5924-a1e6-407e-9383-9701c0ae2478
+
+
 
 ### 3. output Video (IART)
 
-[구미호 축소 변환본.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/4e5f5a07-12e3-4d95-ba07-a252de47aa0c/%EA%B5%AC%EB%AF%B8%ED%98%B8_-_IART.mp4?id=5bc025df-647d-4d82-8a67-032f2d0bfc99&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=DOesY-f7kZ_pKbgWfAw2nDUJFuEKKjlzFUXUUlFfU4s)
+
+
+https://github.com/junu3148/Upscale/assets/134668162/5d58a6d7-7a87-407b-b69f-d8c287fadb85
+
+
