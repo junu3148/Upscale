@@ -115,7 +115,11 @@ Flask 서버 엔드포인트
 
 ### 2. Input Video (Real-ESRGAN)
 
-- [Input Video 1](https://github.com/junu3148/Upscale/assets/134668162/c7099db4-2df8-43f9-8427-b019de8c8feb)
+- [Input Video 1](
+
+Uploading 둘리_Before.mp4…
+
+)
 - [Input Video 2](https://github.com/junu3148/Upscale/assets/134668162/9cb9d140-437b-41f7-b9f5-eaa1f15a6f7d)
 
 ### 3. Output Video (Real-ESRGAN)
