@@ -152,20 +152,20 @@ Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용�
 ### 2. input Video (IART)
 
 
-- [Input Video 1](
+
 
 https://github.com/junu3148/Upscale/assets/134668162/538bf587-449c-4b0e-aa8c-680482629dcb
 
-)
+
 
 
 ### 3. output Video (IART)
 
 
-- [Output Video 1](
+
 
 https://github.com/junu3148/Upscale/assets/134668162/22336c60-a8f3-46a4-b51b-91deddf1e648
 
-)
+
 
 
