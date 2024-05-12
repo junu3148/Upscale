@@ -21,13 +21,19 @@ Anaconda 3
 
 AI model - codeformer, Real-ESRGAN
 
-https://github.com/sczhou/CodeFormer
+<a href="https://github.com/sczhou/CodeFormer">
+    <img src="https://github.com/junu3148/Upscale/assets/134668162/cebd5c19-46bf-499b-81a1-a8b156c88e45" alt="CodeFormer Image">
+</a>
+
 
 FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg
 
 AI model -  IART
 
-https://github.com/kai422/IART
+<a href="https://github.com/kai422/IART">
+    <img src="https://github.com/junu3148/Upscale/assets/134668162/0c664e1e-8135-4750-b463-f50a90f8323f" alt="IART Image">
+</a>
+
 
 ---
 
@@ -96,37 +102,29 @@ conda install -c conda-forge ffmpeg
 
 ### 1. Postman 통신
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/c3168894-360c-40e2-a4ef-c2c8790e6801/Untitled.png)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2Fc3168894-360c-40e2-a4ef-c2c8790e6801%2FUntitled.png?table=block&id=b87d6a24-5cdd-4462-9206-d6cfa9141ba5&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
 스프링 서버 엔드포인트
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/3b0052f0-2bf8-4ac2-acd5-4324a724d71a/Untitled.png)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2F3b0052f0-2bf8-4ac2-acd5-4324a724d71a%2FUntitled.png?table=block&id=f819cf8e-e73b-4095-82ec-3e47bc676679&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
-Upscaling 워크플로우
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/a852d589-1f92-4f21-95e4-36dbd6af06d8/Untitled.png)
 
 Flask 서버 엔드포인트
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/43da8291-fcac-4e3d-a66d-a83bb59cdeb8/Untitled.png)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa8616105-5508-4c8d-93f9-9e47a410cd89%2F43da8291-fcac-4e3d-a66d-a83bb59cdeb8%2FUntitled.png?table=block&id=a6278f64-42d6-4cd1-8946-87f796b165bb&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=1550&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2)
 
 ### 2. input Video (Real-ESRGAN)
 
-[795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4)
+[795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=PMH3SQUfsj4Qug2zSKbi9eUzDvHuoEVsmq0F8y1uYyw)
 
-[전설의고향 input.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4)
+[전설의고향 input.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4?id=fddec1d6-102d-4952-8147-8fdc62ac7311&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=Ho0eiPkp1zMZU4EVLP2HMtOMVhpzffp6azGBkr373nk)
 
 ### 3. output Video (Real-ESRGAN)
 
-[795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/57487d52-344e-4882-9b6c-022bb5f01478/795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4)
+[795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/57487d52-344e-4882-9b6c-022bb5f01478/795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4?id=522a2a10-243c-443b-b0fe-f88046e3c940&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=gEpNA_aFKDEwD7hikPM9STkOtbMUnn2ts6jVZc3Wn0s)
 
-[전설의고향 Real - ESRGAN.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/1f0d19df-fbdd-4b2b-b619-6e3d8963d466/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_Real_-_ESRGAN.mp4)
+[전설의고향 Real - ESRGAN.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/1f0d19df-fbdd-4b2b-b619-6e3d8963d466/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_Real_-_ESRGAN.mp4?id=23f2199d-32bc-49c6-b738-5a4d7b990fa6&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=ASu_6YVN_gP57pUyGYWhtGo7oy3OBJU2qrQ3mLsczxg)
 
-### 4.  썸네일 이미지
-
-![795e43dc-15de-4613-a650-6a731b18e1cd_img.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/659df332-dfbb-4a8c-b157-26b7d49d7d36/795e43dc-15de-4613-a650-6a731b18e1cd_img.jpg)
-
-썸네일은 원본 비디오로 추출하여 저장
 
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
 
@@ -161,6 +159,8 @@ This is an offical PyTorch implementation of
 
 ### 2. input Video (IART)
 
-[구미호 축소 원본.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/a8616105-5508-4c8d-93f9-9e47a410cd89/6c9f106a-d2bb-4275-8673-5786b005743d/%EA%B5%AC%EB%AF%B8%ED%98%B8_%EC%B6%95%EC%86%8C_%EC%9B%90%EB%B3%B8.mp4)
+[구미호 축소 원본.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/6c9f106a-d2bb-4275-8673-5786b005743d/%EA%B5%AC%EB%AF%B8%ED%98%B8_%EC%B6%95%EC%86%8C_%EC%9B%90%EB%B3%B8.mp4?id=a4c27757-db8d-4349-891f-aa4b8a0b5923&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=KCrqGRpObf0fp2dN1qscwFb9fUMCr9Y5fqTrNNNcSh0)
 
 ### 3. output Video (IART)
+
+[구미호 축소 변환본.mp4](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/4e5f5a07-12e3-4d95-ba07-a252de47aa0c/%EA%B5%AC%EB%AF%B8%ED%98%B8_-_IART.mp4?id=5bc025df-647d-4d82-8a67-032f2d0bfc99&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=DOesY-f7kZ_pKbgWfAw2nDUJFuEKKjlzFUXUUlFfU4s)
