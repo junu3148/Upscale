@@ -22,7 +22,7 @@ Anaconda 3
 AI model - codeformer, Real-ESRGAN
 
 <a href="https://github.com/sczhou/CodeFormer">
-    <img src="https://github.com/junu3148/Upscale/assets/134668162/cebd5c19-46bf-499b-81a1-a8b156c88e45" alt="CodeFormer Image">
+    <img src="https://github.com/junu3148/Upscale/assets/134668162/7d63c0b6-0c8b-44b4-bd4e-ca28e607acb0" alt="CodeFormer Image">
 </a>
 
 
@@ -115,15 +115,27 @@ Flask 서버 엔드포인트
 
 ### 2. input Video (Real-ESRGAN)
 
-[![Before Video](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/7ce1ec88-63bb-4c2f-b1fe-3897a012eab0/795e43dc-15de-4613-a650-6a731b18e1cd_Before.mp4?id=8319973e-8092-4090-92ab-f23d3df536ca&table=block&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&expirationTimestamp=1715594400000&signature=PMH3SQUfsj4Qug2zSKbi9eUzDvHuoEVsmq0F8y1uYyw)
 
-[![Before Video (전설의고향)](https://via.placeholder.com/400x300.png?text=Click+To+Watch+%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5+Before+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/9f3f9bbc-81bb-4c35-a3c7-50f57aef24ee/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_input.mp4?id=fddec1d6-102d-4952-8147-8fdc62ac7311)
+
+https://github.com/junu3148/Upscale/assets/134668162/c7099db4-2df8-43f9-8427-b019de8c8feb
+
+
+
+https://github.com/junu3148/Upscale/assets/134668162/9cb9d140-437b-41f7-b9f5-eaa1f15a6f7d
+
+
 
 ### 3. output Video (Real-ESRGAN)
 
-[![After Video](https://via.placeholder.com/400x300.png?text=Click+To+Watch+After+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/57487d52-344e-4882-9b6c-022bb5f01478/795e43dc-15de-4613-a650-6a731b18e1cd_After.mp4?id=522a2a10-243c-443b-b0fe-f88046e3c940)
 
-[![After Video (전설의고향)](https://via.placeholder.com/400x300.png?text=Click+To+Watch+%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5+After+Video)](https://file.notion.so/f/f/a8616105-5508-4c8d-93f9-9e47a410cd89/1f0d19df-fbdd-4b2b-b619-6e3d8963d466/%EC%A0%84%EC%84%A4%EC%9D%98%EA%B3%A0%ED%96%A5_Real_-_ESRGAN.mp4?id=23f2199d-32bc-49c6-b738-5a4d7b990fa6)
+
+https://github.com/junu3148/Upscale/assets/134668162/832279a0-1db8-4dd1-b899-ba361cc373e6
+
+
+
+https://github.com/junu3148/Upscale/assets/134668162/75eb40f3-98bf-4ed6-9820-5ea27afffc9e
+
+
 
 
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
