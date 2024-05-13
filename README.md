@@ -7,11 +7,11 @@
 
 ### Spring boot Server
 
-Open JDK 17, Spring boot, Gradle, Spring data JPA, Postgresql, 
+Open JDK 17, Spring boot, Gradle, Spring data JPA, Postgresql 
 
 GitHub, Docker, FFmpeg
 
-### Flask Server
+### Fast Server
 
 FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg
 
