@@ -20,6 +20,7 @@ Anaconda 3
 
 <br>
 AI model - codeformer, Real-ESRGAN
+
 FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg
 <a href="https://github.com/sczhou/CodeFormer">
     <img src="https://github.com/junu3148/Upscale/assets/134668162/7d63c0b6-0c8b-44b4-bd4e-ca28e607acb0" alt="CodeFormer Image">
@@ -29,6 +30,7 @@ FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg
 <br>
 
 AI model -  IART
+
 FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg
 
 <a href="https://github.com/kai422/IART">
