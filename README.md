@@ -20,14 +20,14 @@ Anaconda 3
 
 <br>
 AI model - codeformer, Real-ESRGAN <br> 
-FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg
+FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/sczhou/CodeFormer">
     <img src="https://github.com/junu3148/Upscale/assets/134668162/7d63c0b6-0c8b-44b4-bd4e-ca28e607acb0" alt="CodeFormer Image">
 </a>
 
 <br><br>
 AI model -  IART <br> 
-FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg
+FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/kai422/IART">
     <img src="https://github.com/junu3148/Upscale/assets/134668162/0c664e1e-8135-4750-b463-f50a90f8323f" alt="IART Image">
 </a>
