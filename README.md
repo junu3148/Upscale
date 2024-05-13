@@ -53,7 +53,7 @@ AI model -  IART
 
 - Upscale 엔드포인트
     - input 파일 저장
-    - Real - ESRGAN을 통한 업스케일링
+    - AI 모델을 통한 업스케일링
     - output 파일 저장
     - 파일 반환
     - 반환 후 파일 삭제
@@ -137,8 +137,10 @@ https://github.com/junu3148/Upscale/assets/134668162/abf89506-95d2-4c7e-9477-3ad
 
 
 
-
+<br>
 Codeformer를 사용하여 얼굴을 중점으로 복원하는 모델을 사용했습니다. 이 모델은 애니메이션에 특화되어 있어, 애니메이션의 완성도는 높았습니다. 그러나 영상의 사람 얼굴은 프레임마다 GAN 모델로 재생성되어, 영상을 결합했을 때 일관성이 유지되지 않았습니다.
+<br>
+<br>
 
 ### 1. 모델 (IART)
 
@@ -163,6 +165,6 @@ https://github.com/junu3148/Upscale/assets/134668162/538bf587-449c-4b0e-aa8c-680
 
 https://github.com/junu3148/Upscale/assets/134668162/22336c60-a8f3-46a4-b51b-91deddf1e648
 
-
+노트북 성능 문제로 영상의 사이즈를 축소해서 실증을 했고, 모델분석 후 파라미터 조정해서 퀄리티 확인이 필요할 것 같습니다.
 
 
