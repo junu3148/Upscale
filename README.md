@@ -10,6 +10,7 @@
 Open JDK 17, Spring boot, Gradle, Spring data JPA, Postgresql 
 
 GitHub, Docker, FFmpeg
+<br>
 
 ### Fast Server
 
@@ -19,6 +20,7 @@ GPU - RTX 3060
 
 Anaconda 3
 
+<br>
 AI model - codeformer, Real-ESRGAN
 
 <a href="https://github.com/sczhou/CodeFormer">
