@@ -42,7 +42,7 @@ FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg <br>
 - Upscale
     - 원본 파일 저장
     - FFmpeg 사용 2초 시간대 썸네일 추출 이미지 저장
-    - Flask API 통신으로 Upscale된 비디오 저장
+    - Flask API 통신으로 Upscale 된 비디오 저장
     - 영상의 메타정보와 함께 스트리밍 URL 경로 반환
 - 히스토리 조회
     - AI 옵션에 맞는 작업 내용 리스트 조회
@@ -163,6 +163,6 @@ https://github.com/junu3148/Upscale/assets/134668162/538bf587-449c-4b0e-aa8c-680
 
 https://github.com/junu3148/Upscale/assets/134668162/22336c60-a8f3-46a4-b51b-91deddf1e648
 
-노트북 성능 문제로 영상의 사이즈를 축소해서 실증을 했고, 모델분석 후 파라미터 조정해서 퀄리티 확인이 필요할 것 같습니다.
+노트북 성능 문제로 영상의 크기를 축소해서 실증했고, 모델분석 후 파라미터 조정해서 퀄리티 확인이 필요할 것 같습니다.
 
 
