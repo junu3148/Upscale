@@ -35,7 +35,7 @@ FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg <br>
 
 ---
 
-## 담당한 기능
+## 담당한 기능 (기여도 100%)
 
 ### Spring boot 서버 구현
 
